@@ -1,0 +1,26 @@
+h1{color: blue; background-color; text-align: center; font-style: italic; font-size: 60px; font-weight: bold;}
+h2{color: green; font-family: 'Borel', cursive;}
+h4{font-family: 'Borel', cursive;
+    font-family: 'Handjet', cursive;}
+p{color: blueviolet; font-weight: bold; font-style: italic;}
+img{height: 300px; border: 20px;
+    border-radius: 50px;
+    filter: grayscale(82%) sepia(20%) brightness(50%);
+-webkit-filter: grayscale(82%) sepia(20%) brightness(50%);
+-moz-filter: grayscale(82%) sepia(20%) brightness(50%);
+}
+body{background-color: yellow;
+    background: rgb(34,193,195);
+    background: linear-gradient(67deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);}
+#caja{background-color: blue; color: yellow; width: 200px; height: 100px;}
+.caja1{
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    background: rgb(34,193,195);
+background: linear-gradient(231deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+margin: 200px;
+box-shadow: 10px 10px 30px greenyellow;
+border-radius: 50px 50px 50px 0px;
+}
